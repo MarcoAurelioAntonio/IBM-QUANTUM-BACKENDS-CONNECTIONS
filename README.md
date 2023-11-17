@@ -12,4 +12,17 @@
 This project contains a provider that allows accessing the **[IBM Quantum]**
 systems and simulators.
 
-See [qiskit-ibm-provider Repo](https://github.com/Qiskit/qiskit-ibm-provider)
+See [qiskit-ibm-provider Repo](https://github.com/Qiskit/qiskit-ibm-provider) for more information.
+
+
+
+## Result of Real Job in a IBM quantum computer
+
+![image](https://github.com/MarcoAurelioAntonio/IBM-QUANTUM-BACKENDS-CONNECTIONS/assets/99001924/c596fea5-7764-4aac-90de-8c81a68b2cf5)
+
+### JOB
+
+![image](https://github.com/MarcoAurelioAntonio/IBM-QUANTUM-BACKENDS-CONNECTIONS/assets/99001924/ca8e3114-3a2f-4f42-b73f-028c4fa14a3a)
+
+### Histogram
+![cnb1a10hga30008exyw0_histogram](https://github.com/MarcoAurelioAntonio/IBM-QUANTUM-BACKENDS-CONNECTIONS/assets/99001924/0e14a30f-4825-4856-aee1-5ce7a43a1123)
